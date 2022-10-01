@@ -14,7 +14,7 @@ This is an iOS calculator app clone that I build for my bootcamp assignment. It 
 
 - Does basic operations. ✅
 
--looks like native iOS calculator app. ✅
+- looks like native iOS calculator app. ✅
 
 - Added gray buttons to look original and do extra functions. ✅
 

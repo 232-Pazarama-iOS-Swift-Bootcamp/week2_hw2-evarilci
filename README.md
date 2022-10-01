@@ -9,6 +9,7 @@ This is an iOS calculator app clone that I build for my bootcamp assignment. It 
 
 - Used storyboard constraints to make it responsive to different screen sizes like iPhone 14 Pro Max and iPhone SE3. ✅
 
+![](https://user-images.githubusercontent.com/10756418/193430299-45e08b75-1dd3-43db-a58b-605501168a2d.png)
 
 
 - Does basic operations. ✅
@@ -19,7 +20,9 @@ This is an iOS calculator app clone that I build for my bootcamp assignment. It 
 
 
 
-## Preview
+https://user-images.githubusercontent.com/10756418/193430307-9dc4d709-6dbf-4704-b99f-0df331c2abb1.mov
 
-App screenshot added for preview.
+
+
+
 

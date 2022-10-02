@@ -7,10 +7,12 @@ This is an iOS calculator app clone that I build for my bootcamp assignment. It 
 
 ## Tasks for this assignment 
 
-- Used storyboard constraints to make it responsive to different screen sizes like iPhone 14 Pro and iPhone SE3. ✅
+
 
 ![](https://user-images.githubusercontent.com/10756418/193430299-45e08b75-1dd3-43db-a58b-605501168a2d.png)
+---
 
+- Used storyboard constraints to make it responsive to different screen sizes like iPhone 14 Pro and iPhone SE3. ✅
 
 - Does basic operations. ✅
 
